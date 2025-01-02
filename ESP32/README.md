@@ -1,4 +1,4 @@
-# 🎄 ESP32 Wi-Fi Beacon Project
+## 🎄 ESP32 Wi-Fi Beacon Project
 
 Welcome to the **ESP32 Wi-Fi Beacon** project! This project demonstrates how to create a Wi-Fi Access Point using the ESP32 microcontroller, serving a simple web page for a fun game like "Find the Beacon under the Christmas Tree!" 🎅✨
 
